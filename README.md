@@ -1,4 +1,4 @@
-# About Me :wave:
+# About Me 👨‍💻
 ---
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Caiwen 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
@@ -14,7 +14,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 --> 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=30&duration=1000&pause=1000&width=435&height=80&lines=Nice-to-meet-you+%2C+I+am+Caiwen+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=30&duration=1000&pause=1000&width=435&height=80&lines=Nice-to-meet-you+%2C+I+am+Caiwen+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!-- <br/>
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22psm4aeimvpcpjflgehpsrwi/track/1f8zcJPvJKvxAOjEqM0pyc)
@@ -62,7 +62,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=plastic)
 ![Hyper](https://img.shields.io/badge/-Hyper-000000?logo=Hyper&logoColor=white&style=plastic)
 
-## Statistics
+## Statistics 📊
 [![Caiwen GitHub stats](https://github-readme-stats.vercel.app/api?username=caiwen612&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Caiwen Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=caiwen612&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://img.shields.io/badge/NPM%20EJS-CB3837?logo=npm&logoColor=white&style=plastic)
@@ -71,7 +71,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ![](https://img.shields.io/badge/-PostMan-FF6C37?logo=Postman&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A24B?logo=MongoDB&logoColor=white&style=plastic) -->
 
-## How to react Me
+## How to react Me 💌
 [![Gmail Badge](https://img.shields.io/badge/-chaiboon0612@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:chaiboon0612@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caiwen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chai-boon-tay-589b1a268/)](https://www.linkedin.com/in/chai-boon-tay-589b1a268/)
