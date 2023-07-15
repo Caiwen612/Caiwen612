@@ -71,7 +71,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ![](https://img.shields.io/badge/-PostMan-FF6C37?logo=Postman&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/-MongoDB-47A24B?logo=MongoDB&logoColor=white&style=plastic) -->
 
-## How to react Me 💌
+## How to reach Me 💌
 [![Gmail Badge](https://img.shields.io/badge/-chaiboon0612@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:chaiboon0612@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caiwen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chai-boon-tay-589b1a268/)](https://www.linkedin.com/in/chai-boon-tay-589b1a268/)
