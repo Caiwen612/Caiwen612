@@ -26,7 +26,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=30&pause=1000&center=true&width=435&height=80&lines=Everyone+is+born+different+%E2%98%99)](https://git.io/typing-svg)
 
 
-https://open.spotify.com/track/1f8zcJPvJKvxAOjEqM0pyc?si=fdb159421a9342d3
+<!-- https://open.spotify.com/track/1f8zcJPvJKvxAOjEqM0pyc?si=fdb159421a9342d3 -->
 
 
 
