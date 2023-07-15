@@ -14,7 +14,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 --> 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=30&duration=1000&pause=1000&width=435&height=80&lines=Nice-to-meet-you+%2C+I+am+Caiwen+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=30&duration=1000&pause=1000&width=435&height=80&lines=Nice+to+meet+you+%2C+I+am+Caiwen+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!-- <br/>
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22psm4aeimvpcpjflgehpsrwi/track/1f8zcJPvJKvxAOjEqM0pyc)
