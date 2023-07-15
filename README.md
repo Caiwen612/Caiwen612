@@ -74,7 +74,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 ## How to reach Me 💌
 [![Gmail Badge](https://img.shields.io/badge/-chaiboon0612@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:chaiboon0612@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Caiwen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chai-boon-tay-589b1a268/)](https://www.linkedin.com/in/chai-boon-tay-589b1a268/)
+[![Linkedin Badge](https://img.shields.io/badge/-Caiwen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tay-chai-boon-589b1a268/)](https://www.linkedin.com/in/tay-chai-boon-589b1a268/)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
